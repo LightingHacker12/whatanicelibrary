@@ -30,7 +30,7 @@ local localPlayer = players.LocalPlayer;
 
 --// GLOBALS \\--
 local MAXTIMEOUT = 100;
-local TITLE = "aternal.exe - v1";
+local TITLE = "Aternal.exe - v1";
 local BACKDOOR_SOLVER = {};
 local BACKDOOR_FILTER = {};
 local URSTRING_TO_BACKDOOR = {};
